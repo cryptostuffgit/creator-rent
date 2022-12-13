@@ -1,0 +1,27 @@
+[package]
+name = "creator-rent"
+version = "0.1.0"
+description = "Created with Anchor"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "creator_rent"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[profile.release]
+overflow-checks = true
+
+[dependencies]
+anchor-lang = { version="0.25.0", features = ["init-if-needed"] }
+anchor-spl = "^0.25.0"
+solana-program = "~1.10.29"
+num-traits = "0.2"
+num-derive = "0.3"
+mpl-token-metadata = { version="1.6.1", features = [ "no-entrypoint" ] }

@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# pub key HWcymXxxFMrR6DCaSLWajMtRdy5Q2utf25QJXZE6zwn9
+
+solana-test-validator -u d \
+-c 7BxEkXY4BWD6kCXJnDb3qa6JM9DrKGbtjuHTsMTX1kvh \
+-c 8Awb3gsF6hYdQTvRm6oHhzQJQkxeB4AUVsAAhoB9K6wi \
+-c 6gW18ZRMTRhCRwUoMSVyHBpmtxs3USeLeDvkYRWmBw7S \
+-c 2tyuynu9BLAFhn8p4mmL8TQPdeyv3KBZ2Q11pCQW8s6F \
+-c GmYZTwDMUtU1dTfE7Nj6E35TA25gAoxccmrvw31GDzXb \
+-c BoUNvxHnpG1WqWhvjS6mXZB25HDaKtTnYVqAnoXT3bjV \
+-c FbxxpPUCFXczX4sZLMgWpkJdm8jyiJ9c4uMbdWgph3jV \
+-c FDiHrbz8XehkaxqbHiJa87am55cbx4GPpVFDHHJ69Y7B \
+-c F6xhet9UkY3zQuEcvVdVBJwS3UNc4KtEVwwct1pEn1ij \
+-c DdaLGgCVShwWDxYe5WYwutJe1vxDtMjz7mjsadCcEyE9 \
+-c 2zgTCuxMRr4JpPpuDKy4nspMrJTKXyjnRkBgpepAczTZ \
+-c 24c1BhSgaPSkjMQyL8PLTWsSrBcgmYyVS7VnE1f3pJy8 \
+-c EHTM35chCdn2WfpLbej8eTwWv14uL1FDepSMGTLGXzk3 \
+-c CLBTCHLm5385Jr2VorA1EnMHph9EA93vWKSTyTjkLeJm \
+-c 8kLqeXEAPqRtC1ZVF6D79i8b1FqauN3VcKxjhXhwWiK7 \
+-c 3jSTiLP1qizfYwMzz1owxUbFRhbdemNbpxH9xUQYxz9C \
+-c Cj5o1rY7Wpj4XDoJ91SgNHtUMTvf613f7DJ6yGXgtTkg \
+-c E29xsFS9eWwGDQ4MGuiVBJaUcdwvEjEdvQAMadntEwBL \
+-c 4s8LQ42KSnZcBDyFPzw92wpycZM9VywuFZNTy27ADaUk \
+-c 9dxhyiVEb1jq97PNBSnpo1aaykXmHTXm557nm9UsDyZD
