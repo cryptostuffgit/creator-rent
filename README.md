@@ -1,7 +1,11 @@
 # Creator Rent
 ## A Solana Program that allows NFT creators to collect rent on their NFTs
 
-### About
+## About
+The creator-rent smart contract allows NFT collection owners to start a rent collection plan for their NFT collection by setting the rent collection period (ex. once a month) and a rent price. Any wallet can pay rent for as many periods as they'd like for any NFT in the collection. Rent can only be collected at the begging of the cycle and any payments made for the future are put in escrow in the rent program. The creator can update the rent price however any NFT that hasn't missed a payment will pay at its grandfathered price. This program allows NFT collection owners to make additional revenues by token gating functionality to NFT owners who have paid their rent (ex access to discord server).
+
+## Demo
+https://youtu.be/OKWH4vwMLC4
 
 ### Use the Program
 1. Install Rust 
